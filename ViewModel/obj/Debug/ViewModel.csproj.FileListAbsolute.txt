@@ -1,0 +1,5 @@
+c:\users\richardjesus\documents\visual studio 2015\Projects\IlogicNomina2016\ViewModel\bin\Debug\ViewModel.dll
+c:\users\richardjesus\documents\visual studio 2015\Projects\IlogicNomina2016\ViewModel\bin\Debug\ViewModel.pdb
+c:\users\richardjesus\documents\visual studio 2015\Projects\IlogicNomina2016\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+c:\users\richardjesus\documents\visual studio 2015\Projects\IlogicNomina2016\ViewModel\obj\Debug\ViewModel.dll
+c:\users\richardjesus\documents\visual studio 2015\Projects\IlogicNomina2016\ViewModel\obj\Debug\ViewModel.pdb
